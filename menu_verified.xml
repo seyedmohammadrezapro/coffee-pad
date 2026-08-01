@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Koren>
+	<Organizaciya Organizaciya="Пушков М. Г. ИП" UIDOrganizaciya="000000001" >
+		<Tochka Tochka="Склад Гончарова 21" UIDTochka="000000002 ">
+			<Oficianty/>
+			<Menyu Menyu="0" UIDMenyu="9397337791" NazvanieMenyu="МЕНЮ КУХНЯ" PrinterVBare="P2" PrinterNaKuxne="K1" PrinterPred="PRED">
+				<TipBlyuda TipBlyuda="САЛАТЫ">
+					<Blyudo Blyudo="Цезарь с курицей" Kod="00000000001" Cena="560" BezOgranicheniya="Da" UIDBlyudo="9724623308" Weight="210" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Цезарь с креветкой" Kod="00000000002" Cena="640" BezOgranicheniya="Da" UIDBlyudo="9101192780" Weight="210" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Салат Shagdi" Kod="00000000003" Cena="650" BezOgranicheniya="Da" UIDBlyudo="9640480336" Weight="220" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Салат «Греческий»" Kod="00000000265" Cena="490" BezOgranicheniya="Da" UIDBlyudo="9414252422" Weight="250" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Салат «Летняя Эйфория»" Kod="00000000266" Cena="520" BezOgranicheniya="Da" UIDBlyudo="9187055084" Weight="230" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ХОЛОДНЫЕ ЗАКУСКИ">
+					<Blyudo Blyudo="Ассорти Европейских сыров" Kod="00000000004" Cena="1090" BezOgranicheniya="Da" UIDBlyudo="9760481404" Weight="280" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Мясное ассорти" Kod="00000000005" Cena="960" BezOgranicheniya="Da" UIDBlyudo="9981268191" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Рыбное ассорти" Kod="00000000006" Cena="1190" BezOgranicheniya="Da" UIDBlyudo="9275032221" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Ассорти соленья " Kod="00000000299" Cena="420" BezOgranicheniya="Da" UIDBlyudo="9194249532" Weight="350" IsWeight="true" NoSkidka="false" NDS="NoNDS" WeightPrice="150.00" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Овощное ассорти" Kod="00000000300" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9606417214" Weight="250" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="СУПЫ">
+					<Blyudo Blyudo="Суп «Домашняя лапша»" Kod="00000000007" Cena="390" BezOgranicheniya="Da" UIDBlyudo="9833360958" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Суп пюре грибной" Kod="00000000009" Cena="400" BezOgranicheniya="Da" UIDBlyudo="9486731076" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Суп «ХАШИ»" Kod="00000000286" Cena="420" BezOgranicheniya="Da" UIDBlyudo="9599062801" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ХАЧАПУРИ">
+					<Blyudo Blyudo="Хачапури с сыром" Kod="00000000010" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9903580667" Weight="480" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Хачапури с мясом" Kod="00000000011" Cena="850" BezOgranicheniya="Da" UIDBlyudo="9307473758" Weight="600" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Хачапури «Лодочка»" Kod="00000000012" Cena="550" BezOgranicheniya="Da" UIDBlyudo="9161722123" Weight="450" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="хлебная булка" Kod="00000000014" Cena="80" BezOgranicheniya="Da" UIDBlyudo="9308525357" Weight="480" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Хачапури с картошкой" Kod="00000000015" Cena="450" BezOgranicheniya="Da" UIDBlyudo="9021047997" Weight="480" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Хачапури с сыром и зеленью" Kod="00000000016" Cena="680" BezOgranicheniya="Da" UIDBlyudo="9271862274" Weight="480" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Хачапури с зеленью" Kod="00000000017" Cena="700" BezOgranicheniya="Da" UIDBlyudo="9720077510" Weight="480" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Хачапури с курицей и сыром" Kod="00000000019" Cena="680" BezOgranicheniya="Da" UIDBlyudo="9953751228" Weight="480" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Хачапури с сыром и картошкой" Kod="00000000021" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9116274189" Weight="480" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ХИНКАЛИ ВАРЕНЫЙ">
+					<Blyudo Blyudo="Хинкали вареный с телятиной" Kod="00000000022" Cena="125" BezOgranicheniya="Da" UIDBlyudo="9229150335" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Хинкали вареный с бараниной" Kod="00000000023" Cena="125" BezOgranicheniya="Da" UIDBlyudo="9004016059" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Хинкали вареный с говядиной и свининой" Kod="00000000024" Cena="125" BezOgranicheniya="Da" UIDBlyudo="9607864499" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Хинкали вареный с сыром" Kod="00000000025" Cena="115" BezOgranicheniya="Da" UIDBlyudo="9929274300" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ХИНКАЛИ ЖАРЕНЫЙ">
+					<Blyudo Blyudo="Хинкали жареный с телятиной" Kod="00000000026" Cena="135" BezOgranicheniya="Da" UIDBlyudo="9717272343" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Хинкали жареный с бараниной" Kod="00000000027" Cena="135" BezOgranicheniya="Da" UIDBlyudo="9782713132" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Хинкали жареный с сыром" Kod="00000000318" Cena="125" BezOgranicheniya="Da" UIDBlyudo="9812527257" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ДОЛМА">
+					<Blyudo Blyudo="Долма из виноградных листьев" Kod="00000000028" Cena="550" BezOgranicheniya="Da" UIDBlyudo="9277212765" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="МАНТЫ">
+					<Blyudo Blyudo="Манты с телятиной" Kod="00000000029" Cena="420" BezOgranicheniya="Da" UIDBlyudo="9795662315" Weight="6" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Манты с бараниной" Kod="00000000030" Cena="420" BezOgranicheniya="Da" UIDBlyudo="9458621497" Weight="6" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Манты черные с семгой" Kod="00000000031" Cena="490" BezOgranicheniya="Da" UIDBlyudo="9097656208" Weight="5" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Манты с тыквой" Kod="00000000316" Cena="370" BezOgranicheniya="Da" UIDBlyudo="9159941609" Weight="6" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ПЕЛЬМЕНИ ВАРЕНЫЕ">
+					<Blyudo Blyudo="Пельмени вареные с телятиной" Kod="00000000032" Cena="330" BezOgranicheniya="Da" UIDBlyudo="9955483506" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Пельмени вареные с бараниной" Kod="00000000033" Cena="330" BezOgranicheniya="Da" UIDBlyudo="9976873884" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Пельмени вареные с говядиной и свининой" Kod="00000000034" Cena="310" BezOgranicheniya="Da" UIDBlyudo="9816054685" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Пельмени «Вкус Италии»" Kod="00000000035" Cena="390" BezOgranicheniya="Da" UIDBlyudo="9583581655" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Пельмени черные «Морячек»" Kod="00000000036" Cena="430" BezOgranicheniya="Da" UIDBlyudo="9863287876" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ПЕЛЬМЕНИ ЖАРЕНЫЕ">
+					<Blyudo Blyudo="Пельмени жареные с телятиной" Kod="00000000037" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9705131528" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Пельмени жареные с бараниной" Kod="00000000038" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9348580263" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ВАРЕНИКИ">
+					<Blyudo Blyudo="Вареники с сыром" Kod="00000000039" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9497265287" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Вареники с грибами и картошкой" Kod="00000000040" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9068453814" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Вареники с картошкой " Kod="00000000041" Cena="280" BezOgranicheniya="Da" UIDBlyudo="9128446972" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="СОУСЫ">
+					<Blyudo Blyudo="Сметана" Kod="00000000042" Cena="80" BezOgranicheniya="Da" UIDBlyudo="9178766979" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Аджика Абхазская" Kod="00000000043" Cena="180" BezOgranicheniya="Da" UIDBlyudo="9356036345" Weight="20" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Соус чесночный на сметане" Kod="00000000044" Cena="100" BezOgranicheniya="Da" UIDBlyudo="9807813848" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Соус томатный с кинзой" Kod="00000000045" Cena="100" BezOgranicheniya="Da" UIDBlyudo="9257842641" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Соус в асортименте" Kod="00000000275" Cena="100" BezOgranicheniya="Da" UIDBlyudo="9122611890" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="БЛИНЧИКИ">
+					<Blyudo Blyudo="Блинчики с мясом" Kod="00000000046" Cena="260" BezOgranicheniya="Da" UIDBlyudo="9428095683" Weight="2" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Блинчики с творогом" Kod="00000000047" Cena="240" BezOgranicheniya="Da" UIDBlyudo="9402252827" Weight="2" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="МОРОЖЕНОЕ">
+					<Blyudo Blyudo="Мороженое с шоколадной крошкой" Kod="00000000052" Cena="290" BezOgranicheniya="Da" UIDBlyudo="9028123901" Weight="100" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Мороженое с шоколадным топингом" Kod="00000000053" Cena="290" BezOgranicheniya="Da" UIDBlyudo="9132043521" Weight="100" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ФРУКТОВОЕ АССОРТИ">
+					<Blyudo Blyudo="Фруктовая тарелка «ПРИНЦЕССА»" Kod="00000000054" Cena="950" BezOgranicheniya="Da" UIDBlyudo="9810258854" Weight="400" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Фруктовая ваза «КОРОЛЕВА»" Kod="00000000055" Cena="1600" BezOgranicheniya="Da" UIDBlyudo="9551110671" Weight="1000" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ДОМАШНЕЕ ВАРЕНЬЕ и МЕД">
+					<Blyudo Blyudo="Варенье «КЛУБНИКА»" Kod="00000000056" Cena="150" BezOgranicheniya="Da" UIDBlyudo="9290432575" Weight="100" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Варенье «АБРИКОС»" Kod="00000000057" Cena="150" BezOgranicheniya="Da" UIDBlyudo="9762502194" Weight="100" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Варенье «КИЗИЛ»" Kod="00000000058" Cena="150" BezOgranicheniya="Da" UIDBlyudo="9360261896" Weight="100" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Варенье «КРАСНАЯ СМОРОДИНА»" Kod="00000000059" Cena="150" BezOgranicheniya="Da" UIDBlyudo="9412157649" Weight="100" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Варенье «ФЕЙХОА»" Kod="00000000061" Cena="180" BezOgranicheniya="Da" UIDBlyudo="9367067397" Weight="100" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Мед Гречишный" Kod="00000000062" Cena="150" BezOgranicheniya="Da" UIDBlyudo="9138971541" Weight="80" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Meд Альпийский" Kod="00000000317" Cena="150" BezOgranicheniya="Da" UIDBlyudo="9038922025" Weight="80" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ЗАКУСКИ К ПИВУ">
+					<Blyudo Blyudo="Креветки гриль" Kod="00000000262" Cena="480" BezOgranicheniya="Da" UIDBlyudo="9453061473" Weight="5" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Пивная тарелка" Kod="00000000263" Cena="680" BezOgranicheniya="Da" UIDBlyudo="9956367162" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чипсы" Kod="00000000264" Cena="220" BezOgranicheniya="Da" UIDBlyudo="9482141015" Weight="35" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Крылышки «Хрустящие»" Kod="00000000270" Cena="460" BezOgranicheniya="Da" UIDBlyudo="9123210963" Weight="220" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Картофель фри" Kod="00000000271" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9903437741" Weight="100" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Фисташки соленные" Kod="00000000272" Cena="250" BezOgranicheniya="Da" UIDBlyudo="9845875805" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Куриные крылышки BBQ" Kod="00000000291" Cena="480" BezOgranicheniya="Da" UIDBlyudo="9102856364" Weight="6" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Королевские креветки «Темпура» " Kod="00000000292" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9918978980" Weight="6" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ПИЦЦА">
+					<Blyudo Blyudo="Маргарита" Kod="00000000267" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9402685602" Weight="30" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="см."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Четыре сыра" Kod="00000000268" Cena="700" BezOgranicheniya="Da" UIDBlyudo="9569862331" Weight="300" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="см."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Пепперони" Kod="00000000269" Cena="660" BezOgranicheniya="Da" UIDBlyudo="9045557020" Weight="30" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="см."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ДЕСЕРТЫ СОБСТ. ПРИГОТОВЛЕНИЯ">
+					<Blyudo Blyudo="Торт «Медовый Шик»" Kod="00000000277" Cena="380" BezOgranicheniya="Da" UIDBlyudo="9115600170" Weight="160" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чизкейк «Карамельный Рай»" Kod="00000000278" Cena="380" BezOgranicheniya="Da" UIDBlyudo="9631400336" Weight="100" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чизкейк «Ягодный Рай»" Kod="00000000279" Cena="380" BezOgranicheniya="Da" UIDBlyudo="9771574832" Weight="100" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Торт «Наполеон»" Kod="00000000280" Cena="380" BezOgranicheniya="Da" UIDBlyudo="9308602286" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ЕДА С СОБОЙ">
+					<Blyudo Blyudo="Еда с собой" Kod="00000000287" Cena="700" BezOgranicheniya="Da" UIDBlyudo="9662488631" Weight="NaN" IsWeight="false" NoSkidka="true" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ГОРЯЧИЕ БЛЮДА">
+					<Blyudo Blyudo="Каре ягненка" Kod="00000000293" Cena="990" BezOgranicheniya="Da" UIDBlyudo="9359836997" Weight="260" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Стейк из индейки" Kod="00000000295" Cena="720" BezOgranicheniya="Da" UIDBlyudo="9281919145" Weight="210" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Цыпленок по Абхазски" Kod="00000000297" Cena="700" BezOgranicheniya="Da" UIDBlyudo="9726602792" Weight="300" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Цыпленок под Шумерским соусом" Kod="00000000298" Cena="720" BezOgranicheniya="Da" UIDBlyudo="9917187213" Weight="300" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="наггетсы куриные" Kod="00000000383" Cena="800" BezOgranicheniya="Da" UIDBlyudo="9053481811" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ИНГРЕДИЕНТЫ">
+					<Blyudo Blyudo="Доп. колбаски Пепперони" Kod="00000000304" Cena="150" BezOgranicheniya="Da" UIDBlyudo="9915971429" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Доп. креветки в &quot;Цезарь»" Kod="00000000305" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9268990281" Weight="4" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Доп. кревети в «Шагди»" Kod="00000000306" Cena="400" BezOgranicheniya="Da" UIDBlyudo="9460459550" Weight="5" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Доп. куриная грудка" Kod="00000000307" Cena="250" BezOgranicheniya="Da" UIDBlyudo="9744723133" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Доп. сыр в хачапури" Kod="00000000308" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9795791785" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Доп. мясо в хачапури" Kod="00000000309" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9546413431" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Наггетсы куринные ">
+				</TipBlyuda>
+			</Menyu>
+			<Menyu Menyu="0" UIDMenyu="9538559377" NazvanieMenyu="МЕНЮ БАР безалкогольный" PrinterVBare="P2" PrinterNaKuxne="DelMe" PrinterPred="PRED">
+				<TipBlyuda TipBlyuda="Чайная Карта 800 мл. ">
+					<Blyudo Blyudo="Чай черный" Kod="00000000063" Cena="520" BezOgranicheniya="Da" UIDBlyudo="9190272407" Weight="700" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай зеленый" Kod="00000000064" Cena="520" BezOgranicheniya="Da" UIDBlyudo="9022452799" Weight="700" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай ЖАСМИН" Kod="00000000065" Cena="520" BezOgranicheniya="Da" UIDBlyudo="9879029252" Weight="700" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай черный Чабрец" Kod="00000000066" Cena="550" BezOgranicheniya="Da" UIDBlyudo="9254919605" Weight="700" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай зеленый Чабрец" Kod="00000000067" Cena="550" BezOgranicheniya="Da" UIDBlyudo="9974727552" Weight="700" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай с Липой" Kod="00000000069" Cena="550" BezOgranicheniya="Da" UIDBlyudo="9812333927" Weight="700" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай свежая Мята" Kod="00000000070" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9388804014" Weight="700" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай Облепиха" Kod="00000000071" Cena="590" BezOgranicheniya="Da" UIDBlyudo="9331405635" Weight="700" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай Малина" Kod="00000000073" Cena="660" BezOgranicheniya="Da" UIDBlyudo="9020418144" Weight="700" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай Клубника" Kod="00000000074" Cena="660" BezOgranicheniya="Da" UIDBlyudo="9910245468" Weight="700" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай Имбирь" Kod="00000000075" Cena="630" BezOgranicheniya="Da" UIDBlyudo="9967808854" Weight="700" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай Молочный Улун " Kod="00000000076" Cena="660" BezOgranicheniya="Da" UIDBlyudo="9140321879" Weight="700" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай Огненная Вишня" Kod="00000000077" Cena="660" BezOgranicheniya="Da" UIDBlyudo="9755814442" Weight="700" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Добавка в чай" Kod="00000000284" Cena="100" BezOgranicheniya="Da" UIDBlyudo="9203688204" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="порция"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="чай с Бергамотом" Kod="00000000347" Cena="550" BezOgranicheniya="Da" UIDBlyudo="9579029863" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Чайная карта 450 мл.">
+					<Blyudo Blyudo="Чай черный" Kod="00000000078" Cena="330" BezOgranicheniya="Da" UIDBlyudo="9297836623" Weight="450" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай зеленый" Kod="00000000079" Cena="330" BezOgranicheniya="Da" UIDBlyudo="9526753430" Weight="450" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай Жасмин" Kod="00000000080" Cena="330" BezOgranicheniya="Da" UIDBlyudo="9049584957" Weight="450" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай черный Чабрец" Kod="00000000081" Cena="360" BezOgranicheniya="Da" UIDBlyudo="9976438575" Weight="450" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай зеленый Чабрец" Kod="00000000082" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9195816490" Weight="450" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай с Липой" Kod="00000000084" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9408213190" Weight="450" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай свежая Мята" Kod="00000000085" Cena="400" BezOgranicheniya="Da" UIDBlyudo="9667062271" Weight="450" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай Облепиха" Kod="00000000086" Cena="390" BezOgranicheniya="Da" UIDBlyudo="9026229830" Weight="450" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай Малина" Kod="00000000088" Cena="460" BezOgranicheniya="Da" UIDBlyudo="9746722091" Weight="450" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай Клубника" Kod="00000000089" Cena="460" BezOgranicheniya="Da" UIDBlyudo="9101147169" Weight="450" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай Имбирь" Kod="00000000090" Cena="430" BezOgranicheniya="Da" UIDBlyudo="9986863296" Weight="450" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай Молочный Улун" Kod="00000000091" Cena="460" BezOgranicheniya="Da" UIDBlyudo="9314455831" Weight="450" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чай Огненная Вишня" Kod="00000000092" Cena="460" BezOgranicheniya="Da" UIDBlyudo="9433589667" Weight="450" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Добавка в чай" Kod="00000000285" Cena="100" BezOgranicheniya="Da" UIDBlyudo="9890094614" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="порция"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="чай с Бергамот" Kod="00000000348" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9953385592" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Лимон в нарезку">
+					<Blyudo Blyudo="Лимон в нарезку" Kod="00000000093" Cena="100" BezOgranicheniya="Da" UIDBlyudo="9319211296" Weight="20" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="апельсин в нарезку" Kod="00000000382" Cena="100" BezOgranicheniya="Da" UIDBlyudo="9504992015" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="мята" Kod="00000000390" Cena="100" BezOgranicheniya="Da" UIDBlyudo="9355187584" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="мята" Kod="00000000391" Cena="50" BezOgranicheniya="Da" UIDBlyudo="9591710689" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="мед альпийский" Kod="00000000394" Cena="150" BezOgranicheniya="Da" UIDBlyudo="9354055836" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="лайм в нарезку " Kod="00000000395" Cena="100" BezOgranicheniya="Da" UIDBlyudo="9522034749" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Кофейная карта">
+					<Blyudo Blyudo="Эспрессо" Kod="00000000094" Cena="200" BezOgranicheniya="Da" UIDBlyudo="9200881694" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Американо" Kod="00000000095" Cena="200" BezOgranicheniya="Da" UIDBlyudo="9971157962" Weight="100" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Капучино" Kod="00000000096" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9884853858" Weight="100" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Латте «КЛАССИК»" Kod="00000000097" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9693259556" Weight="240" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Добавка" Kod="00000000329" Cena="90" BezOgranicheniya="Da" UIDBlyudo="9249741311" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Соки">
+					<Blyudo Blyudo="Сок Rich" Kod="00000000106" Cena="270" BezOgranicheniya="Da" UIDBlyudo="9568702806" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Лимонады собствен. приготовлен">
+					<Blyudo Blyudo="Лимонад «АРОМАТНАЯ КЛУБНИКА»" Kod="00000000129" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9326424653" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="л"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Лимонад «ОСВЕЖАЮЩИЙ ЦИТРУС»" Kod="00000000131" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9654369621" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="л"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Лимонад «ЧЕРНАЯ СМОРОДИНА»" Kod="00000000132" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9549416169" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="л"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="лимонад «Манго-Маракуя»" Kod="00000000349" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9520916615" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="лимонад Малина-Маракуя" Kod="00000000350" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9432225529" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="лимонад «манго-маракуя»" Kod="00000000385" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9349633646" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="лимонад «малина-маракуя»" Kod="00000000386" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9351679229" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="лимонад «араматная -клубника»" Kod="00000000387" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9149340161" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="лимонад «освежающий цитрус»" Kod="00000000388" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9788874729" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="лимонад «черная смородина»" Kod="00000000389" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9002621131" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Энергетики">
+					<Blyudo Blyudo="Adrenalin Rush" Kod="00000000134" Cena="120" BezOgranicheniya="Da" UIDBlyudo="9910301181" Weight="250" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Red Bull" Kod="00000000135" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9979643069" Weight="250" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Burn" Kod="00000000136" Cena="290" BezOgranicheniya="Da" UIDBlyudo="9795490126" Weight="330" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="burn mango" Kod="00000000345" Cena="290" BezOgranicheniya="Da" UIDBlyudo="9633396225" Weight="16" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Газированные напитки">
+					<Blyudo Blyudo="Coca Cola" Kod="00000000137" Cena="270" BezOgranicheniya="Da" UIDBlyudo="9978237264" Weight="330" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Fanta" Kod="00000000139" Cena="270" BezOgranicheniya="Da" UIDBlyudo="9022982524" Weight="330" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Borjomi" Kod="00000000140" Cena="250" BezOgranicheniya="Da" UIDBlyudo="9705339093" Weight="500" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="вода б/г bona aqua" Kod="00000000344" Cena="270" BezOgranicheniya="Da" UIDBlyudo="9724263292" Weight="330" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="вода газ. bona aqua " Kod="00000000346" Cena="270" BezOgranicheniya="Da" UIDBlyudo="9061746031" Weight="0.33" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Cola Zero" Kod="00000000384" Cena="250" BezOgranicheniya="Da" UIDBlyudo="9899228418" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Милк Шейк">
+					<Blyudo Blyudo="«Шоколад»" Kod="00000000146" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9145042162" Weight="350" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="«Клубника»" Kod="00000000147" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9044815927" Weight="350" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="«Малина»" Kod="00000000148" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9385552084" Weight="350" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="«Ваниль»" Kod="00000000330" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9931200514" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Saamo">
+					<Blyudo Blyudo="тархун" Kod="00000000351" Cena="180" BezOgranicheniya="Da" UIDBlyudo="9878408507" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="груша" Kod="00000000352" Cena="180" BezOgranicheniya="Da" UIDBlyudo="9995136360" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="мохито" Kod="00000000353" Cena="180" BezOgranicheniya="Da" UIDBlyudo="9862501332" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="гранат" Kod="00000000354" Cena="180" BezOgranicheniya="Da" UIDBlyudo="9012143817" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="коктейли б/а">
+					<Blyudo Blyudo="Мохито «Классик»" Kod="00000000392" Cena="390" BezOgranicheniya="Da" UIDBlyudo="9248342373" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Мохито«Клубничный»" Kod="00000000393" Cena="420" BezOgranicheniya="Da" UIDBlyudo="9143790036" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+			</Menyu>
+			<Menyu Menyu="0" UIDMenyu="9642110929" NazvanieMenyu="МЕНЮ БАР алкоголь" PrinterVBare="P1" PrinterNaKuxne="DelMe" PrinterPred="PRED">
+				<TipBlyuda TipBlyuda="Согревающие Коктейли">
+					<Blyudo Blyudo="Ирландский Кофе" Kod="00000000158" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9068740015" Weight="240" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Бейлиз Кофе" Kod="00000000159" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9442395194" Weight="240" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Глинтвейн красный" Kod="00000000160" Cena="450" BezOgranicheniya="Da" UIDBlyudo="9378434538" Weight="240" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Олд-Фешн Коктейли">
+					<Blyudo Blyudo="Ирландская Роза" Kod="00000000161" Cena="400" BezOgranicheniya="Da" UIDBlyudo="9120937473" Weight="120" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Маргарита" Kod="00000000165" Cena="420" BezOgranicheniya="Da" UIDBlyudo="9013382965" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Маргарита Клубника" Kod="00000000166" Cena="420" BezOgranicheniya="Da" UIDBlyudo="9278223414" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Космополитен" Kod="00000000167" Cena="390" BezOgranicheniya="Da" UIDBlyudo="9926411859" Weight="200" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Лавандовая птичка" Kod="00000000371" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9280664630" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Коктейли Лонг-Дринк ">
+					<Blyudo Blyudo="Мохито «КЛАССИК»" Kod="00000000168" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9979687675" Weight="350" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Мохито «КЛУБНИКА»" Kod="00000000169" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9323819971" Weight="350" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Лонг Айленд" Kod="00000000170" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9971322811" Weight="350" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Голубая Лагуна" Kod="00000000171" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9726577884" Weight="350" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Текила Санрайз" Kod="00000000174" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9318879569" Weight="350" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Розовая Пантера" Kod="00000000176" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9644683544" Weight="350" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Мексиканский Пляж" Kod="00000000179" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9614842901" Weight="350" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Джин Спешл" Kod="00000000181" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9426933597" Weight="350" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Shagdi" Kod="00000000363" Cena="790" BezOgranicheniya="Da" UIDBlyudo="9036664635" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Апероль шприц" Kod="00000000364" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9373882114" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Пина колада" Kod="00000000365" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9345009362" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Мартини Bianco Тоник" Kod="00000000367" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9656871353" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Mартини Fiero Тоник" Kod="00000000368" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9754846214" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Клубничный бум" Kod="00000000372" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9103202100" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Яблочный бум" Kod="00000000373" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9745485754" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Зеленная фея" Kod="00000000374" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9268711538" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Лавандовая птичка " Kod="00000000397" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9060461609" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Коктейли Шот">
+					<Blyudo Blyudo="Б 52" Kod="00000000183" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9190909507" Weight="60" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Ураган шот" Kod="00000000190" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9262569269" Weight="60" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Текила санрайз" Kod="00000000360" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9063559191" Weight="60" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Fire srart" Kod="00000000361" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9568696928" Weight="6" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Клубничный выстрел " Kod="00000000362" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9809636284" Weight="60" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Б 53" Kod="00000000396" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9436746889" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Виски">
+					<Blyudo Blyudo="Jameson" Kod="00000000198" Cena="490" BezOgranicheniya="Da" UIDBlyudo="9507558073" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Jack Deniels" Kod="00000000199" Cena="490" BezOgranicheniya="Da" UIDBlyudo="9188798179" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="William Lawson&quot;s" Kod="00000000200" Cena="390" BezOgranicheniya="Da" UIDBlyudo="9673049701" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Dewar&quot;s Caribbean  Smootn 8" Kod="00000000370" Cena="490" BezOgranicheniya="Da" UIDBlyudo="9197673430" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Ром">
+					<Blyudo Blyudo="Bacardi Carta Blanka" Kod="00000000201" Cena="390" BezOgranicheniya="Da" UIDBlyudo="9184606516" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Ликеры Настойки">
+					<Blyudo Blyudo="Jagermeister" Kod="00000000205" Cena="390" BezOgranicheniya="Da" UIDBlyudo="9077771926" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Sambuka Molinari Extra" Kod="00000000206" Cena="390" BezOgranicheniya="Da" UIDBlyudo="9687350669" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Текила">
+					<Blyudo Blyudo="Sauza Gold" Kod="00000000207" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9811479621" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Olmeca Blanco" Kod="00000000208" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9560963622" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Водка">
+					<Blyudo Blyudo="Царская" Kod="00000000211" Cena="290" BezOgranicheniya="Da" UIDBlyudo="9734732899" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Beluga" Kod="00000000212" Cena="450" BezOgranicheniya="Da" UIDBlyudo="9544018177" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Столичная" Kod="00000000213" Cena="190" BezOgranicheniya="Da" UIDBlyudo="9757623190" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Вермут">
+					<Blyudo Blyudo="Martini Bianco" Kod="00000000215" Cena="390" BezOgranicheniya="Da" UIDBlyudo="9915632037" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Martini Rosato" Kod="00000000216" Cena="390" BezOgranicheniya="Da" UIDBlyudo="9191317774" Weight="50" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Вино">
+					<Blyudo Blyudo="Лыхны" Kod="00000000217" Cena="1600" BezOgranicheniya="Da" UIDBlyudo="9488466101" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="б."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Эшера" Kod="00000000218" Cena="1600" BezOgranicheniya="Da" UIDBlyudo="9582882743" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="б."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чегем" Kod="00000000219" Cena="1600" BezOgranicheniya="Da" UIDBlyudo="9635077868" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="б."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Псоу" Kod="00000000220" Cena="1600" BezOgranicheniya="Da" UIDBlyudo="9429978292" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="б."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Анакопия" Kod="00000000221" Cena="1600" BezOgranicheniya="Da" UIDBlyudo="9753392939" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="б."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Диоскурия" Kod="00000000222" Cena="1600" BezOgranicheniya="Da" UIDBlyudo="9222726653" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="б."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Лыхны" Kod="00000000223" Cena="370" BezOgranicheniya="Da" UIDBlyudo="9112465011" Weight="150" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Эшера" Kod="00000000224" Cena="370" BezOgranicheniya="Da" UIDBlyudo="9925903055" Weight="150" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Чегем" Kod="00000000225" Cena="370" BezOgranicheniya="Da" UIDBlyudo="9794449550" Weight="150" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Псоу" Kod="00000000226" Cena="370" BezOgranicheniya="Da" UIDBlyudo="9772572402" Weight="150" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Анакопия" Kod="00000000227" Cena="370" BezOgranicheniya="Da" UIDBlyudo="9825683034" Weight="150" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Диоскурия" Kod="00000000228" Cena="370" BezOgranicheniya="Da" UIDBlyudo="9706526936" Weight="150" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Пиво">
+					<Blyudo Blyudo="Spaten Munchen" Kod="00000000239" Cena="400" BezOgranicheniya="Da" UIDBlyudo="9130718363" Weight="500" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Bad" Kod="00000000240" Cena="280" BezOgranicheniya="Da" UIDBlyudo="9831947840" Weight="500" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Krusovice S" Kod="00000000241" Cena="280" BezOgranicheniya="Da" UIDBlyudo="9929002057" Weight="500" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Krusovice T" Kod="00000000242" Cena="280" BezOgranicheniya="Da" UIDBlyudo="9043926143" Weight="500" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Hoegarden" Kod="00000000243" Cena="340" BezOgranicheniya="Da" UIDBlyudo="9526021763" Weight="500" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Балтика б/а" Kod="00000000244" Cena="280" BezOgranicheniya="Da" UIDBlyudo="9385664454" Weight="500" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Corona Extra" Kod="00000000320" Cena="390" BezOgranicheniya="Da" UIDBlyudo="9863910972" Weight="330" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="мл."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Konix Blanche Ma Cherie" Kod="00000000333" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9342592222" Weight="0.5" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Konix Pil" Kod="00000000334" Cena="350" BezOgranicheniya="Da" UIDBlyudo="9583685061" Weight="0.5" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="jaws helles" Kod="00000000335" Cena="490" BezOgranicheniya="Da" UIDBlyudo="9890670144" Weight="0.5" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="jaws Blanche" Kod="00000000336" Cena="520" BezOgranicheniya="Da" UIDBlyudo="9636452169" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Gletcher Undergroud" Kod="00000000337" Cena="490" BezOgranicheniya="Da" UIDBlyudo="9901731149" Weight="0.5" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ПРОБКОВЫЙ СБОР">
+					<Blyudo Blyudo="Пробковый сбор" Kod="00000000288" Cena="1000" BezOgranicheniya="Da" UIDBlyudo="9572259180" Weight="1" IsWeight="false" NoSkidka="true" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Коньяк">
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="сидр">
+					<Blyudo Blyudo="Аppleton mango" Kod="00000000338" Cena="490" BezOgranicheniya="Da" UIDBlyudo="9368358558" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="APPLETON CHERRIES" Kod="00000000339" Cena="490" BezOgranicheniya="Da" UIDBlyudo="9244565425" Weight="0.5" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Appleton Pineapple" Kod="00000000340" Cena="490" BezOgranicheniya="Da" UIDBlyudo="9151519263" Weight="0.5" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="дальняя дача №2" Kod="00000000341" Cena="580" BezOgranicheniya="Da" UIDBlyudo="9697599145" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="шампанское ">
+					<Blyudo Blyudo="Bosca Rose Limited" Kod="00000000375" Cena="1500" BezOgranicheniya="Da" UIDBlyudo="9124892984" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Tete De Cheval" Kod="00000000377" Cena="2600" BezOgranicheniya="Da" UIDBlyudo="9378886389" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Zonin prosecco Rose" Kod="00000000378" Cena="1900" BezOgranicheniya="Da" UIDBlyudo="9646152725" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Zonin prosseco" Kod="00000000379" Cena="1900" BezOgranicheniya="Da" UIDBlyudo="9634638854" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+			</Menyu>
+			<Menyu Menyu="0" UIDMenyu="9744920571" NazvanieMenyu="ПАРОВЫЕ КОКТЕЙЛИ" PrinterVBare="P1" PrinterNaKuxne="DelMe" PrinterPred="PRED">
+				<TipBlyuda TipBlyuda="Коктейли микс">
+					<Blyudo Blyudo="ПК микс" Kod="00000000251" Cena="2000" BezOgranicheniya="Da" UIDBlyudo="9103342594" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Коктейли на фруктах">
+					<Blyudo Blyudo="Ананс" Kod="00000000258" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9139206337" Weight="1" IsWeight="false" NoSkidka="true" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Грейпфрут" Kod="00000000259" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9583413162" Weight="1" IsWeight="false" NoSkidka="true" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Арбуз" Kod="00000000331" Cena="700" BezOgranicheniya="Da" UIDBlyudo="9346366801" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Айва" Kod="00000000332" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9621349431" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="ДОБАВКИ В КОЛБУ">
+					<Blyudo Blyudo="Вино" Kod="00000000289" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9443429785" Weight="1" IsWeight="false" NoSkidka="true" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="Молоко" Kod="00000000290" Cena="200" BezOgranicheniya="Da" UIDBlyudo="9055440580" Weight="1" IsWeight="false" NoSkidka="true" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="АРЕНДА кальяна без табака">
+					<Blyudo Blyudo="Аренда кальяна " Kod="00000000310" Cena="2500" BezOgranicheniya="Da" UIDBlyudo="9385388602" Weight="NaN" IsWeight="false" NoSkidka="true" NDS="NoNDS" WeightPrice="1" Units="с"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+				<TipBlyuda TipBlyuda="Бой посуды">
+					<Blyudo Blyudo="Колба для кальяна" Kod="00000000315" Cena="1500" BezOgranicheniya="Da" UIDBlyudo="9014187583" Weight="1" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="шт."><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+			</Menyu>
+			<Menyu Menyu="0" UIDMenyu="9636554832" NazvanieMenyu="Бой посуды " PrinterVBare="" PrinterNaKuxne="" PrinterPred="">
+				<TipBlyuda TipBlyuda="Бой посуды ">
+					<Blyudo Blyudo="бокал мартини" Kod="00000000398" Cena="1500" BezOgranicheniya="Da" UIDBlyudo="9364672751" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="бокал для вина /шампнаского" Kod="00000000399" Cena="1500" BezOgranicheniya="Da" UIDBlyudo="9229867833" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="латешница/рокс" Kod="00000000400" Cena="600" BezOgranicheniya="Da" UIDBlyudo="9390488647" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="чайная чашка" Kod="00000000401" Cena="500" BezOgranicheniya="Da" UIDBlyudo="9830071623" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="блюдце под чайную чашу" Kod="00000000402" Cena="400" BezOgranicheniya="Da" UIDBlyudo="9091210589" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="чашка для кофе " Kod="00000000403" Cena="800" BezOgranicheniya="Da" UIDBlyudo="9642689299" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="сахарница" Kod="00000000404" Cena="1200" BezOgranicheniya="Da" UIDBlyudo="9919498773" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="чайник 450" Kod="00000000405" Cena="2000" BezOgranicheniya="Da" UIDBlyudo="9598693232" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="чайник 800" Kod="00000000406" Cena="2500" BezOgranicheniya="Da" UIDBlyudo="9563926540" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="креманка десертная" Kod="00000000407" Cena="800" BezOgranicheniya="Da" UIDBlyudo="9869154009" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="креманка для соусов" Kod="00000000408" Cena="300" BezOgranicheniya="Da" UIDBlyudo="9492785594" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="тарелка средняя" Kod="00000000409" Cena="2000" BezOgranicheniya="Da" UIDBlyudo="9816969046" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="тарелка овальная " Kod="00000000410" Cena="2500" BezOgranicheniya="Da" UIDBlyudo="9564756589" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="графин для водки 500" Kod="00000000411" Cena="150" BezOgranicheniya="Da" UIDBlyudo="9223470730" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="графин для лимонада 1000" Kod="00000000412" Cena="1500" BezOgranicheniya="Da" UIDBlyudo="9533492382" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="колба для кальяна" Kod="00000000413" Cena="3000" BezOgranicheniya="Da" UIDBlyudo="9770639823" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="стеклянная столешница " Kod="00000000414" Cena="10000" BezOgranicheniya="Da" UIDBlyudo="9850157209" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="сетильник глиняный" Kod="00000000415" Cena="8000" BezOgranicheniya="Da" UIDBlyudo="9681592090" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+					<Blyudo Blyudo="сиденье спинка дивана" Kod="00000000416" Cena="10000" BezOgranicheniya="Da" UIDBlyudo="9424338183" Weight="NaN" IsWeight="false" NoSkidka="false" NDS="NoNDS" WeightPrice="1" Units="г"><Kolichestvo Kolichestvo="0"/>
+					</Blyudo>
+				</TipBlyuda>
+			</Menyu>
+		</Tochka>
+	</Organizaciya>
+</Koren>
